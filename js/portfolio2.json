@@ -9,19 +9,19 @@
     {
         "name" : "first",
         "class" : "mb",
-        "image" : "css/potfolio.png",
+        "image" : "img/cube1.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
         "name" : "first",
         "class" : "mb",
-        "image" : "css/potfolio.png",
+        "image" : "img/cube2.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
         "name" : "first",
         "class" : "mb",
-        "image" : "css/potfolio.png",
+        "image" : "img/cube3.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       }
   ],
