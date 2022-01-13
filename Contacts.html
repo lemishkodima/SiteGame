@@ -14,9 +14,13 @@
       <div class = "wrapper">
         <header class="header">
           <div class="header_container_container">
-              <a href="D:\SiteGAme\index.html" class="header_logo">
+              <a href="index.html" class="header_logo">
                   <img src="img\logo.svg" alt="" class="log">
               </a>
+              <button class="GIT-mob"><a href="#ready">
+                GET IN TOUCH
+            </a>
+            </button>
               <div class="header_burger">
                 <span></span>
               </div>
@@ -29,12 +33,12 @@
                         <a href="#"> Services </a>
                     </li>
                     <li class="menu_item">
-                        <a href="D:\SiteGAme\Portfolio.html">Portfolio</a>
+                        <a href="Portfolio.html">Portfolio</a>
                     </li>
                     <li class="menu_item">
-                        <a href="D:\SiteGAme\MOBILE GAME DEVELOPMENT COMPANY.html">About Us </a>
+                        <a href="MOBILE GAME DEVELOPMENT COMPANY.html">About Us </a>
                     </li>
-                    <li class="menu_item"><a href="D:\SiteGAme\Contacts.html"> Contacts</a>
+                    <li class="menu_item"><a href="Contacts.html"> Contacts</a>
                     </li>
                 </ul>
                 <button class="GIT"><a href="#ready">
@@ -47,12 +51,14 @@
       </header>
           
           <!-- _______________________________________________________________ -->
-         <div class="maps">
+         <div class="map" id="map">
+           <!-- <img src="css\maps.png" alt="" class="maps_img"> -->
+           <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.7489337948537!2d35.15730393548981!3d47.82508269701326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dc5e01d43cc425%3A0x61ee6da645e9aa92!2z0LLRg9C70LjRhtGPINCo0LrRltC70YzQvdCwLCAxMCwg0JfQsNC_0L7RgNGW0LbQttGPLCDQl9Cw0L_QvtGA0ZbQt9GM0LrQsCDQvtCx0LvQsNGB0YLRjCwg0KPQutGA0LDRl9C90LAsIDY5MDAw!5e0!3m2!1suk!2suk!4v1642006423463!5m2!1suk!2suk" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="maps_img" ></iframe> -->
          </div>
          <div class="cont_i">
            <h1 class="ukr">Ukraine</h1>
            <h2 class="adress">ZAPORIZHZHE
-            6-Z, Vatslava Havela Boulevard
+            10, Shkilʹna
             Zaporizhzhe, Ukraine, 03142
             Sales: +38-044-593-77-95
             Office: +38-044-593-77-94</h2>
@@ -67,27 +73,22 @@
   <div class="form_warp">
       <form method="post" action="#">
           <div>
-              
             <input class="name1" id="name1" type="text" name="name" placeholder="*Name" required>
-           
-           
           </div>
           <div>
-              
               <input class="surname1" id="surname1" type="text" name="surname" placeholder="*Surname" required>
-              
             </div>
             <div>
             <select class="sotm1" name="country">
-              <option disabled>*Subject of the message</option>
+              <option>*Subject of the message</option>
             </select>
             </div>
           <div>
             <input class="e-mail" id="e-mail" type="email" name="email" placeholder="**E-mail" required>
           </div>
           <div >
-            <select class="country1" name="country"  placeholder="**E-mail">
-              <option disabled>*Select your country</option>
+            <select class="country1" name="country">
+              <option>*Select your country</option>
               <option value="Россия">Россия</option> 
               <option value="Украина">Украина</option> 
               <option value="Беларусь">Беларусь</option> 
@@ -95,15 +96,15 @@
           </div> 
           <div>
             <select class="how" name="how">
-              <option disabled>*How did you hear about us?</option>
+              <option>*How did you hear about us?</option>
             </select> 
           </div> 
           <div>
-              <input class="forma" type="text" name="forma" required> 
+              <textarea  class="forma" type="text" name="forma" placeholder="*Project Description" required></textarea>
             </div>
           <div class="policy">
-          <input class="check"  type="checkbox" id="checkbox-1">
-          <label class="yes" for="checkbox-1">*Yes,I understand and agree to the Terms of use and the Privacy Policy.
+          <input class="check"  type="checkbox" id="checkbox-1" required>
+          <label class="yes" for="checkbox-1"required>*Yes,I understand and agree to the Terms of use and the Privacy Policy.
           </label>
       </div>
       <div>
@@ -119,7 +120,7 @@
 <!--_________________________________________________________________________ -->
 <footer class="footer_c">
         <div class="footer_container">
-        <a href="D:\SiteGAme\index.html" class="footer_logo">
+        <a href="index.html" class="footer_logo">
             <img src="img\logo.svg" alt="">
         </a>
         <nav class="footer_menu">
@@ -148,6 +149,9 @@
   </div>    
       
       <script  src="css/libs/jquery-3.6.0.min.js"></script>
+      <script  src="js/map.js"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwGvQ9xOvOIsZBUq4C0NNIT8MjmgHUoTQ" onload="initMap()"></script>
+      <script src="js/select.js"></script>
       <script src="js/script.js"></script>
       
   </body>

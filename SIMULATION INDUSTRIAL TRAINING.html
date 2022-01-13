@@ -14,9 +14,13 @@
       <div class = "wrapper">
         <header class="header">
           <div class="header_container_container">
-              <a href="D:\SiteGAme\index.html" class="header_logo">
+              <a href="index.html" class="header_logo">
                   <img src="img\logo.svg" alt="" class="log">
               </a>
+              <button class="GIT-mob"><a href="#ready">
+                GET IN TOUCH
+            </a>
+            </button>
               <div class="header_burger">
                 <span></span>
               </div>
@@ -29,12 +33,12 @@
                         <a href="#"> Services </a>
                     </li>
                     <li class="menu_item">
-                        <a href="D:\SiteGAme\Portfolio.html">Portfolio</a>
+                        <a href="Portfolio.html">Portfolio</a>
                     </li>
                     <li class="menu_item">
-                        <a href="D:\SiteGAme\MOBILE GAME DEVELOPMENT COMPANY.html">About Us </a>
+                        <a href="MOBILE GAME DEVELOPMENT COMPANY.html">About Us </a>
                     </li>
-                    <li class="menu_item"><a href="D:\SiteGAme\Contacts.html"> Contacts</a>
+                    <li class="menu_item"><a href="Contacts.html"> Contacts</a>
                     </li>
                 </ul>
                 <button class="GIT"><a href="#ready">
@@ -60,7 +64,7 @@
       <p class="dsim">The Unity3D game engine is well suited for creating immersive 3D worlds that allow users to interact with complex equipment and large machines. With the Unity engine, one can also develop cross-platform training applications for mobile devices, desktops or web browsers. Training simulations can be designed to take workers through safety instructions, operations, maintenance and repair as well as assembly processes.
       </p>
       <h1 class="train">KEY FEATURES AND OVERVIEW</h1>
-      <hr class="line_s">
+      <hr class="line_s1">
       <div class="key_i">
       <p class="key">
         The application walks the users through the complete process of pipe and tubular life-cycle management. The simulation identifies draw pipes and other associated elements for drilling and tripping operation. Special focus is given to the process of verifying pipe strength and measuring the quality of the pipes before commencing with drilling operations.
@@ -130,7 +134,12 @@
   
     <div class="aboute_cgm">
       <h1 class="aboute_cgh">ABOUT CUBEEX GAMES</h1>
-      <img class="about_cgi" src="img\about.png" alt="">
+      <div class="ab_img">
+      <img class="about_cgi" src="img\about1.png" alt="">
+      <img class="about_cgi" src="img\about2.png" alt="">
+      <img class="about_cgi" src="img\about3.png" alt="">
+      <img class="about_cgi" src="img\about4.png" alt="">
+    </div>
     </div>
           
          
@@ -139,53 +148,48 @@
   <h1 id="ready" class="cont">READY TO START YOUR PROJECT?</h1>
   <h2 class="tcts">If you need assistance in building a product from scratch or supporting the existing one, drop us a line to discuss details, and we will reply within 24 hours. </h2>
   <div class="form_warp">
-      <form method="post" action="#">
-          <div>
-              
-            <input class="name1" id="name1" type="text" name="name" placeholder="*Name" required>
-           
-           
-          </div>
-          <div>
-              
-              <input class="surname1" id="surname1" type="text" name="surname" placeholder="*Surname" required>
-              
-            </div>
-            <div>
-            <select class="sotm1" name="country">
-              <option disabled>*Subject of the message</option>
-            </select>
-            </div>
-          <div>
-            <input class="e-mail" id="e-mail" type="email" name="email" placeholder="**E-mail" required>
-          </div>
-          <div >
-            <select class="country1" name="country"  placeholder="**E-mail">
-              <option disabled>*Select your country</option>
-              <option value="Россия">Россия</option> 
-              <option value="Украина">Украина</option> 
-              <option value="Беларусь">Беларусь</option> 
-            </select> 
-          </div> 
-          <div>
-            <select class="how" name="how">
-              <option disabled>*How did you hear about us?</option>
-            </select> 
-          </div> 
-          <div>
-              <input class="forma" type="text" name="forma" required> 
-            </div>
-          <div class="policy">
-          <input class="check"  type="checkbox" id="checkbox-1">
-          <label class="yes" for="checkbox-1">*Yes,I understand and agree to the Terms of use and the Privacy Policy.
-          </label>
+    <form method="post" action="#">
+      <div>
+        <input class="name1" id="name1" type="text" name="name" placeholder="*Name" required>
       </div>
       <div>
-          <input name="file" type="file" name="file" id="input__file" class="file" multiple>
-        <label for="input__file" class="file_btn"><span>UPLOAD FILE</span></label>
+          <input class="surname1" id="surname1" type="text" name="surname" placeholder="*Surname" required>
+        </div>
+        <div>
+        <select class="sotm1" name="country">
+          <option>*Subject of the message</option>
+        </select>
+        </div>
+      <div>
+        <input class="e-mail" id="e-mail" type="email" name="email" placeholder="**E-mail" required>
       </div>
-      <button class="pin" type="submit">SEND A MASSAGE</button> 
-        </form> 
+      <div >
+        <select class="country1" name="country">
+          <option>*Select your country</option>
+          <option value="Россия">Россия</option> 
+          <option value="Украина">Украина</option> 
+          <option value="Беларусь">Беларусь</option> 
+        </select> 
+      </div> 
+      <div>
+        <select class="how" name="how">
+          <option>*How did you hear about us?</option>
+        </select> 
+      </div> 
+      <div>
+          <textarea  class="forma" type="text" name="forma" placeholder="*Project Description" required></textarea>
+        </div>
+      <div class="policy">
+      <input class="check"  type="checkbox" id="checkbox-1" required>
+      <label class="yes" for="checkbox-1"required>*Yes,I understand and agree to the Terms of use and the Privacy Policy.
+      </label>
+  </div>
+  <div>
+      <input name="file" type="file" name="file" id="input__file" class="file" multiple>
+    <label for="input__file" class="file_btn"><span>UPLOAD FILE</span></label>
+  </div>
+  <button class="pin" type="submit">SEND A MASSAGE</button> 
+    </form> 
         
         
   </div>
@@ -193,7 +197,7 @@
 <!--_________________________________________________________________________ -->
 <footer class="footer_m">
         <div class="footer_container">
-        <a href="D:\SiteGAme\index.html" class="footer_logo">
+        <a href="index.html" class="footer_logo">
             <img src="img\logo.svg" alt="">
         </a>
         <nav class="footer_menu">

@@ -2,6 +2,7 @@ $(function(){
  $('.header_burger').on('click', function(){
      $('.header_burger, .header_menu').toggleClass('active');
      $('body').toggleClass('lock');
+     $('.GIT-mob').toggleClass('lock');
  }
  )
 
@@ -168,4 +169,59 @@ $("#p14").on('click', function(){
 });
 });
 // Закінчення слайдера...........................................................................
+let = slide11 = $("#slide11");
+let = slide22 = $("#slide22");
+let = slide33 = $("#slide33");
+let = slide44 = $("#slide44");
 
+let = page11 = $("#p011");
+let = page22 = $("#p022");
+let = page33 = $("#p033");
+let = page44 = $("#p044");
+
+$(function(){
+    $("#p011" ).on('click', function(){
+        slide11.fadeIn(750);
+        slide22.css("display", "none");
+        slide33.css("display", "none");
+        slide44.css("display", "none");
+        page11.css("background","linear-gradient(180deg, #5CC1D3 0%, #006678 100%)")
+        page22.css("background","Transparent")
+        page33.css("background","Transparent")
+        page44.css("background","Transparent")
+        console.log('sucsses')
+    });
+    $("#p022").on('click', function(){
+        slide11.css("display", "none");
+        slide22.fadeIn(750);
+        slide33.css("display", "none");
+        slide44.css("display", "none");
+        page11.css("background","Transparent")
+        page22.css("background","linear-gradient(180deg, #5CC1D3 0%, #006678 100%)")
+        page33.css("background","Transparent")
+        page44.css("background","Transparent")
+        console.log('sucsses')
+    });
+    $("#p033").on('click', function(){
+        slide11.css("display", "none");
+        slide22.css("display", "none");
+        slide33.fadeIn(750);
+        slide44.css("display", "none");
+        page11.css("background","Transparent")
+        page22.css("background","Transparent")
+        page33.css("background","linear-gradient(180deg, #5CC1D3 0%, #006678 100%)")
+        page44.css("background","Transparent")
+        console.log('sucsses')
+    });
+    $("#p044").on('click', function(){
+        slide11.css("display", "none");
+        slide22.css("display", "none");
+        slide33.css("display", "none");
+        slide44.fadeIn(750);
+        page11.css("background","Transparent")
+        page22.css("background","Transparent")
+        page33.css("background","Transparent")
+        page44.css("background","linear-gradient(180deg, #5CC1D3 0%, #006678 100%)")
+        console.log('sucsses')
+    });
+});
