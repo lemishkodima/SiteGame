@@ -3,66 +3,66 @@
       {
         "site" : "MOBILE GAME DEVELOPMENT COMPANY.html",
         "name" : "Mobile Game Development", 
-        "image" : "img/game_s111.png",
+        "image" : "img/game_s111.png"
       },
       {
         "site" : "#",
         "name" : "Unity 3D Game Development", 
-        "image" : "img/game_s112.png",
+        "image" : "img/game_s112.png"
         },
         {
             "site" : "#",
             "name" : "Desktop Game Development", 
-            "image" : "img/game_ss113.png",
+            "image" : "img/game_ss113.png"
         },
         {
             "site" : "#",
             "name" : "Augmented Realy Development", 
-            "image" : "img/game_ss114.png",
+            "image" : "img/game_ss114.png"
         }
     ],
     "vr":[
       {
         "site" : "#",
         "name" : "", 
-        "image" : "",
+        "image" : ""
         },
         {
             "site" : "#",
             "name" : "AR App Development", 
-            "image" : "img/game_s221.png",
+            "image" : "img/game_s221.png"
           },
           {
             "site" : "#",
             "name" : "VR App Development", 
-            "image" : "img/game_s222.png",
+            "image" : "img/game_s222.png"
           },
           {
             "site" : "#",
             "name" : "", 
-            "image" : "",
+            "image" : ""
           }
     ],
     "art":[
       {
         "site" : "#",
         "name" : "UI/Ux Design", 
-        "image" : "img/game_s331.png",
+        "image" : "img/game_s331.png"
         },
         {
             "site" : "#",
             "name" : "Pre Production", 
-            "image" : "img/game_s332.png",
+            "image" : "img/game_s332.png"
           },
           {
             "site" : "#",
             "name" : "Animation", 
-            "image" : "img/game_ss333.png",
+            "image" : "img/game_ss333.png"
           },
           {
             "site" : "#",
             "name" : "3D Modeling", 
-            "image" : "img/game_ss334.png",
+            "image" : "img/game_ss334.png"
           }
     ]
 }
