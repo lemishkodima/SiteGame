@@ -57,12 +57,12 @@
           {
             "site" : "#",
             "name" : "Animation", 
-            "image" : "img/game_ss333.png"
+            "image" : "img/game_s333.png"
           },
           {
             "site" : "#",
             "name" : "3D Modeling", 
-            "image" : "img/game_ss334.png"
+            "image" : "img/game_s334.png"
           }
     ]
 }
