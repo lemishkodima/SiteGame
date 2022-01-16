@@ -1,5 +1,5 @@
 
-{ "MOBILE GAME DEVELOPMENT COMPANY":[
+{ "MOBILE_GAME_DEVELOPMENT_COMPANY":[
 {
     "title":"MOBILE GAME DEVELOPMENT COMPANY",
     "subtitle":"Are you looking to hire mobile game developers?",
@@ -62,7 +62,7 @@
         }
     ],
  
-    "Unity 3D Game Development":[
+    "Unity_3D_Game_Development":[
         {
             "title":"",
             "subtitle":"",
@@ -116,7 +116,7 @@
         
                 }
             ],
-"Desktop Game Development":[
+"Desktop_Game_Development":[
         {
             "title":"",
             "subtitle":"",
@@ -170,7 +170,7 @@
         
                 }
             ],
-"Augmented Realy Development":[
+"Augmented_Realy_Development":[
     {
         "title":"",
         "subtitle":"",
@@ -224,7 +224,7 @@
     
             }
         ],
-"AR App Development":[
+"AR_App_Development":[
     {
         "title":"",
         "subtitle":"",
@@ -278,7 +278,7 @@
     
             }
         ],
-"VR App Development":[
+"VR_App_Development":[
     {
         "title":"",
         "subtitle":"",
@@ -332,7 +332,7 @@
     
             }
         ],
-"UI/Ux Design":[
+"UI/Ux_Design":[
     {
         "title":"",
         "subtitle":"",
@@ -386,7 +386,7 @@
     
             }
         ],
-"UI/Ux Design":[
+"Pre_Production":[
     {
         "title":"",
         "subtitle":"",
@@ -440,7 +440,7 @@
     
             }
         ],
-"Pre Production":[
+"Animation":[
     {
         "title":"",
         "subtitle":"",
@@ -494,7 +494,7 @@
     
             }
         ],
-"3D Modeling":[
+"3D_Modeling":[
     {
         "title":"",
         "subtitle":"",
