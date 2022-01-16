@@ -1,25 +1,25 @@
 { 
   "enterprise":[
     {
-      "name" : "first",
-      "class" : "mb",
+      "site" : "SIMULATION INDUSTRIAL TRAINING.html",
+      "class" : "mb", 
       "image" : "css/potfolio.png",
       "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
     },
     {
-        "name" : "first",
+      "site" : "#",
         "class" : "mb",
         "image" : "img/cube1.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "name" : "first",
+        "site" : "#",
         "class" : "mb",
         "image" : "img/cube2.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "name" : "first",
+        "site" : "#",
         "class" : "mb",
         "image" : "img/cube3.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
@@ -27,25 +27,25 @@
   ],
   "vr":[
     {
-        "name" : "first",
+      "site" : "#",
         "class" : "mb",
         "image" : "css/potfolio.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-          "name" : "first",
+        "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "name" : "first",
+          "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "name" : "first",
+          "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
@@ -53,25 +53,25 @@
   ],
   "game":[
     {
-        "name" : "first",
+      "site" : "#",
         "class" : "mb",
         "image" : "css/potfolio.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-          "name" : "first",
+        "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "name" : "first",
+          "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "name" : "first",
+          "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
@@ -79,25 +79,25 @@
   ],
   "app":[
     {
-        "name" : "first",
+      "site" : "#",
         "class" : "mb",
         "image" : "css/potfolio.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-          "name" : "first",
+        "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "name" : "first",
+          "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "name" : "first",
+          "site" : "#",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
