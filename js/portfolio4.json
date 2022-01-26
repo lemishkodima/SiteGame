@@ -1,25 +1,25 @@
 { 
   "enterprise":[
     {
-      "site" : "SIMULATION INDUSTRIAL TRAINING.html",
+      "site" : "portfolio_1.html",
       "class" : "mb", 
       "image" : "css/potfolio.png",
       "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
     },
     {
-      "site" : "#",
+      "site" : "portfolio_2.html",
         "class" : "mb",
         "image" : "img/cube1.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "site" : "#",
+        "site" : "portfolio_3.html",
         "class" : "mb",
         "image" : "img/cube2.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "site" : "#",
+        "site" : "portfolio_4.html",
         "class" : "mb",
         "image" : "img/cube3.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
@@ -27,25 +27,25 @@
   ],
   "vr":[
     {
-      "site" : "#",
+      "site" : "portfolio_5.html",
         "class" : "mb",
         "image" : "css/potfolio.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "site" : "#",
+        "site" : "portfolio_6.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "site" : "#",
+          "site" : "portfolio_7.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "site" : "#",
+          "site" : "portfolio_8.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
@@ -53,25 +53,25 @@
   ],
   "game":[
     {
-      "site" : "#",
+      "site" : "portfolio_9.html",
         "class" : "mb",
         "image" : "css/potfolio.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "site" : "#",
+        "site" : "portfolio_10.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "site" : "#",
+          "site" : "portfolio_11.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "site" : "#",
+          "site" : "portfolio_12.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
@@ -79,25 +79,25 @@
   ],
   "app":[
     {
-      "site" : "#",
+      "site" : "portfolio_13.html",
         "class" : "mb",
         "image" : "css/potfolio.png",
         "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
       },
       {
-        "site" : "#",
+        "site" : "portfolio_14.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "site" : "#",
+          "site" : "portfolio_15.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
         },
         {
-          "site" : "#",
+          "site" : "portfolio_16.html",
           "class" : "mb",
           "image" : "css/potfolio.png",
           "h3b" : "SIMULATION – INDUSTRIAL TRAINING"
