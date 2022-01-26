@@ -6,17 +6,17 @@
         "image" : "img/game_s111.png"
       },
       {
-        "site" : "#",
+        "site" : "Unity 3D Game Development.html",
         "name" : "Unity 3D Game Development", 
         "image" : "img/game_s112.png"
         },
         {
-            "site" : "#",
+            "site" : "Desktop Game Development.html",
             "name" : "Desktop Game Development", 
             "image" : "img/game_ss113.png"
         },
         {
-            "site" : "#",
+            "site" : "Augmented Realy Development.html",
             "name" : "Augmented Realy Development", 
             "image" : "img/game_ss114.png"
         }
@@ -28,12 +28,12 @@
         "image" : ""
         },
         {
-            "site" : "#",
+            "site" : "AR App Development.html",
             "name" : "AR App Development", 
             "image" : "img/game_s221.png"
           },
           {
-            "site" : "#",
+            "site" : "VR App Development.html",
             "name" : "VR App Development", 
             "image" : "img/game_s222.png"
           },
@@ -45,22 +45,22 @@
     ],
     "art":[
       {
-        "site" : "#",
+        "site" : "UI.Ux _Design.html",
         "name" : "UI/Ux Design", 
         "image" : "img/game_s331.png"
         },
         {
-            "site" : "#",
+            "site" : "Pre Production.html",
             "name" : "Pre Production", 
             "image" : "img/game_s332.png"
           },
           {
-            "site" : "#",
+            "site" : "Animation.html",
             "name" : "Animation", 
             "image" : "img/game_s333.png"
           },
           {
-            "site" : "#",
+            "site" : "3D Modeling.html",
             "name" : "3D Modeling", 
             "image" : "img/game_s334.png"
           }
