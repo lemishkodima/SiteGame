@@ -6,7 +6,8 @@
         "img1": "img/cube1.png",
         "img2": "img/cube2.png",
         "img3": "img/cube3.png",
-        "img4": "img/cube4.png"
+        "img4": "img/cube4.png",
+        "link1": "portfolio_1.html" 
       },
       "slide2":
       {
@@ -15,7 +16,8 @@
         "img1": "img/cube1.png",
         "img2": "img/cube2.png",
         "img3": "img/cube3.png",
-        "img4": "img/cube4.png"
+        "img4": "img/cube4.png",
+        "link2": "portfolio_2.html" 
       },
       "slide3":
       {
@@ -24,6 +26,7 @@
         "img1": "img/cube1.png",
         "img2": "img/cube2.png",
         "img3": "img/cube3.png",
-        "img4": "img/cube4.png"
+        "img4": "img/cube4.png",
+        "link3": "portfolio_3.html" 
       }
   }
